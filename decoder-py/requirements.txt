@@ -1,0 +1,4 @@
+pyserial==3.5
+autopep8
+black
+yapf
