@@ -1,0 +1,26 @@
+:root {
+  --red: #FF0000;
+  --green: #00FF00;
+  --blue: #0000FF;
+  --white: #ffffff;
+  --black: #000000;
+}
+
+* {
+  color: var(--black);
+  font-family: helvetica;
+}
+
+body {
+    background: var(--white);
+}
+
+.btn-connect {
+  color: var(--white);
+  background-color: var(--blue);
+}
+
+.light-theme {
+  --bg: var(--white);
+  --fontColor: var(--black);
+}
